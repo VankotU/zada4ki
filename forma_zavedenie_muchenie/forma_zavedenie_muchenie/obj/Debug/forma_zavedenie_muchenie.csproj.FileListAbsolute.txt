@@ -1,0 +1,12 @@
+C:\Users\STUDENTS-1409-4\Desktop\mixa 10a\forma_zavedenie_muchenie\forma_zavedenie_muchenie\bin\Debug\forma_zavedenie_muchenie.exe.config
+C:\Users\STUDENTS-1409-4\Desktop\mixa 10a\forma_zavedenie_muchenie\forma_zavedenie_muchenie\bin\Debug\forma_zavedenie_muchenie.exe
+C:\Users\STUDENTS-1409-4\Desktop\mixa 10a\forma_zavedenie_muchenie\forma_zavedenie_muchenie\bin\Debug\forma_zavedenie_muchenie.pdb
+C:\Users\STUDENTS-1409-4\Desktop\mixa 10a\forma_zavedenie_muchenie\forma_zavedenie_muchenie\obj\Debug\forma_zavedenie_muchenie.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1409-4\Desktop\mixa 10a\forma_zavedenie_muchenie\forma_zavedenie_muchenie\obj\Debug\forma_zavedenie_muchenie.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENTS-1409-4\Desktop\mixa 10a\forma_zavedenie_muchenie\forma_zavedenie_muchenie\obj\Debug\forma_zavedenie_muchenie.Form1.resources
+C:\Users\STUDENTS-1409-4\Desktop\mixa 10a\forma_zavedenie_muchenie\forma_zavedenie_muchenie\obj\Debug\forma_zavedenie_muchenie.Properties.Resources.resources
+C:\Users\STUDENTS-1409-4\Desktop\mixa 10a\forma_zavedenie_muchenie\forma_zavedenie_muchenie\obj\Debug\forma_zavedenie_muchenie.csproj.GenerateResource.cache
+C:\Users\STUDENTS-1409-4\Desktop\mixa 10a\forma_zavedenie_muchenie\forma_zavedenie_muchenie\obj\Debug\forma_zavedenie_muchenie.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1409-4\Desktop\mixa 10a\forma_zavedenie_muchenie\forma_zavedenie_muchenie\obj\Debug\forma_zavedenie_muchenie.exe
+C:\Users\STUDENTS-1409-4\Desktop\mixa 10a\forma_zavedenie_muchenie\forma_zavedenie_muchenie\obj\Debug\forma_zavedenie_muchenie.pdb
+C:\Users\STUDENTS-1409-4\Desktop\mixa 10a\forma_zavedenie_muchenie\forma_zavedenie_muchenie\obj\Debug\forma_zavedenie_muchenie.cenorazpis.resources

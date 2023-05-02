@@ -1,0 +1,8 @@
+C:\Users\STUDENTS-1409-4\Desktop\mixa 10a\forma_zavedenie_muchenie\mixa_zavedenie\mixa_zavedenie\bin\Debug\mixa_zavedenie.exe.config
+C:\Users\STUDENTS-1409-4\Desktop\mixa 10a\forma_zavedenie_muchenie\mixa_zavedenie\mixa_zavedenie\bin\Debug\mixa_zavedenie.exe
+C:\Users\STUDENTS-1409-4\Desktop\mixa 10a\forma_zavedenie_muchenie\mixa_zavedenie\mixa_zavedenie\bin\Debug\mixa_zavedenie.pdb
+C:\Users\STUDENTS-1409-4\Desktop\mixa 10a\forma_zavedenie_muchenie\mixa_zavedenie\mixa_zavedenie\obj\Debug\mixa_zavedenie.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1409-4\Desktop\mixa 10a\forma_zavedenie_muchenie\mixa_zavedenie\mixa_zavedenie\obj\Debug\mixa_zavedenie.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENTS-1409-4\Desktop\mixa 10a\forma_zavedenie_muchenie\mixa_zavedenie\mixa_zavedenie\obj\Debug\mixa_zavedenie.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1409-4\Desktop\mixa 10a\forma_zavedenie_muchenie\mixa_zavedenie\mixa_zavedenie\obj\Debug\mixa_zavedenie.exe
+C:\Users\STUDENTS-1409-4\Desktop\mixa 10a\forma_zavedenie_muchenie\mixa_zavedenie\mixa_zavedenie\obj\Debug\mixa_zavedenie.pdb
