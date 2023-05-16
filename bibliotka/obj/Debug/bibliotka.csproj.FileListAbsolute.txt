@@ -1,0 +1,8 @@
+C:\Users\STUDENTS-1409-10\Desktop\Marinow AMG 10a\bibliotka\bin\Debug\bibliotka.exe.config
+C:\Users\STUDENTS-1409-10\Desktop\Marinow AMG 10a\bibliotka\bin\Debug\bibliotka.exe
+C:\Users\STUDENTS-1409-10\Desktop\Marinow AMG 10a\bibliotka\bin\Debug\bibliotka.pdb
+C:\Users\STUDENTS-1409-10\Desktop\Marinow AMG 10a\bibliotka\obj\Debug\bibliotka.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1409-10\Desktop\Marinow AMG 10a\bibliotka\obj\Debug\bibliotka.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENTS-1409-10\Desktop\Marinow AMG 10a\bibliotka\obj\Debug\bibliotka.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1409-10\Desktop\Marinow AMG 10a\bibliotka\obj\Debug\bibliotka.exe
+C:\Users\STUDENTS-1409-10\Desktop\Marinow AMG 10a\bibliotka\obj\Debug\bibliotka.pdb
