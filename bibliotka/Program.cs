@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics.Eventing.Reader;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -35,6 +36,8 @@ namespace bibliotka
 
             string[]nomer=new string[n];
 
+            double[]vreme=new double[n];
+
             for(int i=0; i<n; i++)
             {
                 Console.Write("vuvedi ime - ");
@@ -43,42 +46,69 @@ namespace bibliotka
                 Console.Write("vuvedi nomer - ");
                 nomer[i] = Console.ReadLine();
 
+                Console.Write("vuvedi vreme - ");
+                vreme[i] = double.Parse(Console.ReadLine());
+
                 Console.WriteLine((i + 1) + ". ime - " + ime[i]);
                 Console.WriteLine((i + 1) + ". nomer - " + nomer[i]);
+                Console.WriteLine((i + 1) + ". vreme - " + vreme[i]);
             }
 
             for (int i = 0; i < n; i++)
             {
                 string a = nomer[i].Remove(1, 5);
-                if(a == "2"|| a == "3")
+                int b = int.Parse(a);
+
+                if (b < 1)
                 {
-                    Console.WriteLine("posetil si ili ponedelnik ili vtornik");
+                    Console.WriteLine("Nqma takuv den");
                 }
 
-                if (a == "1")
+                if (b == 2 || b == 3)
+                {
+                    Console.WriteLine("posetil si ili ponedelnik ili vtornik");
+
+                    if (vreme[i] < 24.00)
+                    {
+                        Console.WriteLine("pnedelnik");
+                    }
+
+                    if (vreme[i] > 24.00)
+                    {
+                        Console.WriteLine("vtornik");
+                    }
+                }
+
+                if (b == 1)
                 {
                     Console.WriteLine("posetil si ponedelnik");
                 }
 
-                if (a == "4" || a == "5")
+                if (b == 4 || b == 5)
                 {
                     Console.WriteLine("posetil si ili vtornik ili srqda");
+
+                    if (vreme[i] < 24.00)
+                    {
+                        Console.WriteLine("vtornik");
+                    }
+
+                    if (vreme[i] > 24.00)
+                    {
+                        Console.WriteLine("srqda");
+                    }
                 }
 
-                if (a == "0")
+                if (b == 0)
                 {
                     Console.WriteLine("nqma takuv den");
                 }
 
-                if (a == "6" || a == "7")
+                if (b > 6)
                 {
-                    Console.WriteLine("posetil si ili chetvurtuk ili petuk");
+                    Console.WriteLine("bibliotkata ne raboti");
                 }
-
-                if (a == "8" || a == "9")
-                {
-                    Console.WriteLine("posetil si ili subota ili nedelq");
-                }
+                
 
             }
 
