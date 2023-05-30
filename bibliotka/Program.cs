@@ -11,23 +11,6 @@ namespace bibliotka
     {
         static void Main(string[] args)
         {
-            //vuvedi broi chtateli
-            //za tqh ime, nomer, br. posetiteli,
-
-            /* Console.Write("Vuvedi broi - ");
-             int a = int.Parse(Console.ReadLine());
-
-             for(int i = 0; i < a; i++)
-             {
-                 Console.Write((i+1) + " ime - ");
-                 string ime= Console.ReadLine();
-
-                 Console.Write("nomer - ");
-                 string nomer = Console.ReadLine();  
-
-                 Console.Write((i+1)+". ime - "+ime);
-                 Console.Write((i + 1) + ". nomer - "+nomer);
-             }*/
             Console.Write("vuvedi broi - ");
             int n = int.Parse(Console.ReadLine());
             
@@ -59,32 +42,22 @@ namespace bibliotka
                 string a = nomer[i].Remove(1, 5);
                 int b = int.Parse(a);
 
-                if (b < 1)
+                if (b == 0)
                 {
-                    Console.WriteLine("Nqma takuv den");
-                }
-
-                if (b == 2 || b == 3)
-                {
-                    Console.WriteLine("posetil si ili ponedelnik ili vtornik");
-
-                    if (vreme[i] < 24.00)
-                    {
-                        Console.WriteLine("pnedelnik");
-                    }
-
-                    if (vreme[i] > 24.00)
-                    {
-                        Console.WriteLine("vtornik");
-                    }
+                    Console.WriteLine("nqma takuv den");
                 }
 
                 if (b == 1)
                 {
                     Console.WriteLine("posetil si ponedelnik");
+
+                    if (b < 1)
+                    {
+                        Console.WriteLine("Nqma takuv den");
+                    }
                 }
 
-                if (b == 4 || b == 5)
+                if (b == 2 || b == 3)
                 {
                     Console.WriteLine("posetil si ili vtornik ili srqda");
 
@@ -93,15 +66,25 @@ namespace bibliotka
                         Console.WriteLine("vtornik");
                     }
 
-                    if (vreme[i] > 24.00)
+                    else
                     {
                         Console.WriteLine("srqda");
                     }
                 }
 
-                if (b == 0)
+                if (b == 4 || b == 5)
                 {
-                    Console.WriteLine("nqma takuv den");
+                    Console.WriteLine("posetil si ili chetvurtuk ili petuk");
+
+                    if (vreme[i] < 24.00)
+                    {
+                        Console.WriteLine("chetvurtuk");
+                    }
+
+                    else
+                    {
+                        Console.WriteLine("petuk");
+                    }
                 }
 
                 if (b > 6)
@@ -109,6 +92,8 @@ namespace bibliotka
                     Console.WriteLine("bibliotkata ne raboti");
                 }
                 
+              
+
 
             }
 
