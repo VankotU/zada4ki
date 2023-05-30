@@ -94,6 +94,10 @@
             this.button1 = new System.Windows.Forms.Button();
             this.label38 = new System.Windows.Forms.Label();
             this.comboBox1 = new System.Windows.Forms.ComboBox();
+            this.textBox19 = new System.Windows.Forms.TextBox();
+            this.label39 = new System.Windows.Forms.Label();
+            this.button2 = new System.Windows.Forms.Button();
+            this.label40 = new System.Windows.Forms.Label();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.groupBox3.SuspendLayout();
@@ -764,6 +768,43 @@
             this.comboBox1.TabIndex = 9;
             this.comboBox1.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
             // 
+            // textBox19
+            // 
+            this.textBox19.Location = new System.Drawing.Point(562, 355);
+            this.textBox19.Name = "textBox19";
+            this.textBox19.Size = new System.Drawing.Size(100, 20);
+            this.textBox19.TabIndex = 10;
+            this.textBox19.TextChanged += new System.EventHandler(this.textBox19_TextChanged);
+            // 
+            // label39
+            // 
+            this.label39.AutoSize = true;
+            this.label39.Location = new System.Drawing.Point(508, 357);
+            this.label39.Name = "label39";
+            this.label39.Size = new System.Drawing.Size(48, 13);
+            this.label39.TabIndex = 11;
+            this.label39.Text = "Бакшиш";
+            // 
+            // button2
+            // 
+            this.button2.Location = new System.Drawing.Point(710, 381);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(120, 23);
+            this.button2.TabIndex = 12;
+            this.button2.Text = "Към поръчката";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
+            // 
+            // label40
+            // 
+            this.label40.AutoSize = true;
+            this.label40.Location = new System.Drawing.Point(686, 76);
+            this.label40.Name = "label40";
+            this.label40.Size = new System.Drawing.Size(41, 13);
+            this.label40.TabIndex = 13;
+            this.label40.Text = "label40";
+            this.label40.Click += new System.EventHandler(this.label40_Click);
+            // 
             // cenorazpis
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -771,6 +812,10 @@
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(930, 450);
+            this.Controls.Add(this.label40);
+            this.Controls.Add(this.button2);
+            this.Controls.Add(this.label39);
+            this.Controls.Add(this.textBox19);
             this.Controls.Add(this.comboBox1);
             this.Controls.Add(this.label38);
             this.Controls.Add(this.button1);
@@ -868,5 +913,9 @@
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Label label38;
         private System.Windows.Forms.ComboBox comboBox1;
+        private System.Windows.Forms.TextBox textBox19;
+        private System.Windows.Forms.Label label39;
+        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Label label40;
     }
 }

@@ -13,10 +13,15 @@ namespace forma_zavedenie_muchenie
 {
     public partial class cenorazpis : Form
     {
+        
+
         public cenorazpis()
         {
             InitializeComponent();
+            
         }
+        public string lek { get; set; }
+
 
         private void groupBox1_Enter(object sender, EventArgs e)
         {
@@ -148,50 +153,102 @@ namespace forma_zavedenie_muchenie
 
         }
 
+        double menta ;
+        double shopska ;
+        double turshiq;
+        double mlechna;
+        double kafe;
+        double chai;
+        double greqna;
+        double frape;
+        double gazirana;
+        double voda;
+        double kebapche;
+        double kartof;
+        double agneshko;
+        double torta;
+        double sladoled;
+        double krem;
+        double whiskey;
+        double vodka;
+        double shopska1;
+        double turshiq1;
+        double mlechna1;
+        double kafe1;
+        double chai1;
+        double greqna1;
+        double frape1;
+        double gazirana1;
+        double voda1;
+        double kebapche1;
+        double kartof1;
+        double agneshko1;
+        double torta1;
+        double sladoled1;
+        double krem1;
+        double whiskey1;
+        double vodka1;
+        double menta1;
+        double formula4 ;
+        double formula;
+        double formula3;
+        double formula2;
+        double formula5;
+        double bakshish;
         private void button1_Click(object sender, EventArgs e)
         {
-            double menta = double.Parse(label37.Text);
-            double shopska = double.Parse(label20.Text);
-            double turshiq = double.Parse(label21.Text);
-            double mlechna = double.Parse(label22.Text);
-            double kafe = double.Parse(label23.Text);
-            double chai = double.Parse(label24.Text);
-            double greqna = double.Parse(label25.Text);
-            double frape = double.Parse(label26.Text);
-            double gazirana = double.Parse(label27.Text);
-            double voda = double.Parse(label28.Text);
-            double kebapche = double.Parse(label29.Text);
-            double kartof = double.Parse(label30.Text);
-            double agneshko = double.Parse(label31.Text);
-            double torta = double.Parse(label32.Text);
-            double sladoled = double.Parse(label33.Text);
-            double krem = double.Parse(label34.Text);
-            double whiskey = double.Parse(label35.Text);
-            double vodka = double.Parse(label36.Text);
-            double shopska1 = double.Parse(textBox1.Text);
-            double turshiq1 = double.Parse(textBox2.Text);
-            double mlechna1 = double.Parse(textBox3.Text);
-            double kafe1 = double.Parse(textBox4.Text);
-            double chai1 = double.Parse(textBox5.Text);
-            double greqna1 = double.Parse(textBox6.Text);
-            double frape1 = double.Parse(textBox7.Text);
-            double gazirana1 = double.Parse(textBox8.Text);
-            double voda1 = double.Parse(textBox9.Text);
-            double kebapche1 = double.Parse(textBox10.Text);
-            double kartof1 = double.Parse(textBox11.Text);
-            double agneshko1 = double.Parse(textBox12.Text);
-            double torta1 = double.Parse(textBox13.Text);
-            double sladoled1 = double.Parse(textBox15.Text);
-            double krem1 = double.Parse(textBox14.Text);
-            double whiskey1 = double.Parse(textBox16.Text);
-            double vodka1 = double.Parse(textBox17.Text);
-            double menta1 = double.Parse(textBox18.Text);
-            double formula4 = torta * torta1 + sladoled * sladoled1 + krem * krem1 + whiskey * whiskey1;
-            double formula =  chai * chai1 + greqna * greqna1 + frape * frape1 + gazirana * gazirana1;
-            double formula3 = shopska * shopska1 + turshiq * turshiq1 + mlechna * mlechna1 + kafe * kafe1;
-             double formula2 = voda * voda1 + kebapche * kebapche1 + kartof * kartof1 + agneshko * agneshko1;
-            double formula5 = vodka * vodka1 + menta * menta1; 
-            MessageBox.Show("duljite:" + (formula+formula2+formula3+formula4+formula5));
+             menta = double.Parse(label37.Text);
+             shopska = double.Parse(label20.Text);
+             turshiq = double.Parse(label21.Text);
+             mlechna = double.Parse(label22.Text);
+             kafe = double.Parse(label23.Text);
+             chai = double.Parse(label24.Text);
+             greqna = double.Parse(label25.Text);
+             frape = double.Parse(label26.Text);
+             gazirana = double.Parse(label27.Text);
+             voda = double.Parse(label28.Text);
+             kebapche = double.Parse(label29.Text);
+             kartof = double.Parse(label30.Text);
+             agneshko = double.Parse(label31.Text);
+             torta = double.Parse(label32.Text);
+             sladoled = double.Parse(label33.Text);
+             krem = double.Parse(label34.Text);
+             whiskey = double.Parse(label35.Text);
+             vodka = double.Parse(label36.Text);
+             shopska1 = double.Parse(textBox1.Text);
+             turshiq1 = double.Parse(textBox2.Text);
+             mlechna1 = double.Parse(textBox3.Text);
+             kafe1 = double.Parse(textBox4.Text);
+             chai1 = double.Parse(textBox5.Text);
+             greqna1 = double.Parse(textBox6.Text);
+             frape1 = double.Parse(textBox7.Text);
+             gazirana1 = double.Parse(textBox8.Text);
+             voda1 = double.Parse(textBox9.Text);
+             kebapche1 = double.Parse(textBox10.Text);
+             kartof1 = double.Parse(textBox11.Text);
+             agneshko1 = double.Parse(textBox12.Text);
+             torta1 = double.Parse(textBox13.Text);
+             sladoled1 = double.Parse(textBox15.Text);
+             krem1 = double.Parse(textBox14.Text);
+             whiskey1 = double.Parse(textBox16.Text);
+             vodka1 = double.Parse(textBox17.Text);
+             menta1 = double.Parse(textBox18.Text);
+             formula4 = torta * torta1 + sladoled * sladoled1 + krem * krem1 + whiskey * whiskey1;
+             formula =  chai * chai1 + greqna * greqna1 + frape * frape1 + gazirana * gazirana1;
+             formula3 = shopska * shopska1 + turshiq * turshiq1 + mlechna * mlechna1 + kafe * kafe1;
+              formula2 = voda * voda1 + kebapche * kebapche1 + kartof * kartof1 + agneshko * agneshko1;
+             formula5 = vodka * vodka1 + menta * menta1;
+             bakshish =double.Parse(textBox19.Text);
+            if ((formula + formula2 + formula3 + formula4 + formula5) > 100)
+            {
+                MessageBox.Show("Сметката е над 100 лв. премахни нещо! ");
+            }
+            else
+            {
+               MessageBox.Show("duljite:" + (formula+formula2+formula3+formula4+formula5+bakshish)); 
+            }
+
+            
 
 
         }
@@ -283,12 +340,87 @@ namespace forma_zavedenie_muchenie
 
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
-            if (comboBox1.SelectedItem.ToString()=="кеш")
+          
+        }
+
+        private void textBox19_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+        public static string value1 = " ";
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            value1 = textBox1.Text;
+            //if ()
             {
 
-                TextBox textbox23 = new TextBox();
-
             }
+            Form2 forma = new Form2();
+            forma.Closed += (s, args) => this.Close();
+            forma.Show();
+
+            forma.BringToFront();
+            forma.batio = textBox1.Text;
+            
+           
+            
+        }
+
+        private void label40_Click(object sender, EventArgs e)
+        {
+            menta = double.Parse(label37.Text);
+            shopska = double.Parse(label20.Text);
+            turshiq = double.Parse(label21.Text);
+            mlechna = double.Parse(label22.Text);
+            kafe = double.Parse(label23.Text);
+            chai = double.Parse(label24.Text);
+            greqna = double.Parse(label25.Text);
+            frape = double.Parse(label26.Text);
+            gazirana = double.Parse(label27.Text);
+            voda = double.Parse(label28.Text);
+            kebapche = double.Parse(label29.Text);
+            kartof = double.Parse(label30.Text);
+            agneshko = double.Parse(label31.Text);
+            torta = double.Parse(label32.Text);
+            sladoled = double.Parse(label33.Text);
+            krem = double.Parse(label34.Text);
+            whiskey = double.Parse(label35.Text);
+            vodka = double.Parse(label36.Text);
+            shopska1 = double.Parse(textBox1.Text);
+            turshiq1 = double.Parse(textBox2.Text);
+            mlechna1 = double.Parse(textBox3.Text);
+            kafe1 = double.Parse(textBox4.Text);
+            chai1 = double.Parse(textBox5.Text);
+            greqna1 = double.Parse(textBox6.Text);
+            frape1 = double.Parse(textBox7.Text);
+            gazirana1 = double.Parse(textBox8.Text);
+            voda1 = double.Parse(textBox9.Text);
+            kebapche1 = double.Parse(textBox10.Text);
+            kartof1 = double.Parse(textBox11.Text);
+            agneshko1 = double.Parse(textBox12.Text);
+            torta1 = double.Parse(textBox13.Text);
+            sladoled1 = double.Parse(textBox15.Text);
+            krem1 = double.Parse(textBox14.Text);
+            whiskey1 = double.Parse(textBox16.Text);
+            vodka1 = double.Parse(textBox17.Text);
+            menta1 = double.Parse(textBox18.Text);
+            formula4 = torta * torta1 + sladoled * sladoled1 + krem * krem1 + whiskey * whiskey1;
+            formula = chai * chai1 + greqna * greqna1 + frape * frape1 + gazirana * gazirana1;
+            formula3 = shopska * shopska1 + turshiq * turshiq1 + mlechna * mlechna1 + kafe * kafe1;
+            formula2 = voda * voda1 + kebapche * kebapche1 + kartof * kartof1 + agneshko * agneshko1;
+            formula5 = vodka * vodka1 + menta * menta1;
+            bakshish = double.Parse(textBox19.Text);
+if ((formula + formula2 + formula3 + formula4 + formula5) > 100)
+            {
+                MessageBox.Show("Сметката е над 100 лв. премахни нещо! ");
+            }
+          else
+            {
+label40.Text="duljite:" + (formula + formula2 + formula3 + formula4 + formula5 + bakshish);
+            }
+            
+            
         }
     }
 }

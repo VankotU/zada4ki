@@ -30,5 +30,26 @@ namespace forma_zavedenie_muchenie
             ceni.Show();
             ceni.BringToFront();
         }
+
+        private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            listBox1.Items.Add("Маса за: " + comboBox1.SelectedItem.ToString() + "\n вие сте: " + textBox1.Text + " човека");
+            
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

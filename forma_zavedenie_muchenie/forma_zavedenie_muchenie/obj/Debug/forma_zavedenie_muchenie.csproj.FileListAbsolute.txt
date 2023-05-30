@@ -10,3 +10,4 @@ C:\Users\STUDENTS-1409-4\Desktop\mixa 10a\forma_zavedenie_muchenie\forma_zaveden
 C:\Users\STUDENTS-1409-4\Desktop\mixa 10a\forma_zavedenie_muchenie\forma_zavedenie_muchenie\obj\Debug\forma_zavedenie_muchenie.exe
 C:\Users\STUDENTS-1409-4\Desktop\mixa 10a\forma_zavedenie_muchenie\forma_zavedenie_muchenie\obj\Debug\forma_zavedenie_muchenie.pdb
 C:\Users\STUDENTS-1409-4\Desktop\mixa 10a\forma_zavedenie_muchenie\forma_zavedenie_muchenie\obj\Debug\forma_zavedenie_muchenie.cenorazpis.resources
+C:\Users\STUDENTS-1409-4\Desktop\mixa 10a\forma_zavedenie_muchenie\forma_zavedenie_muchenie\obj\Debug\forma_zavedenie_muchenie.Form2.resources
