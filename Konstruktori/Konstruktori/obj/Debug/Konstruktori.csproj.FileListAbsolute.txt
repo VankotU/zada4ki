@@ -1,0 +1,8 @@
+C:\Ivan11a\Konstruktori\Konstruktori\bin\Debug\Konstruktori.exe.config
+C:\Ivan11a\Konstruktori\Konstruktori\bin\Debug\Konstruktori.exe
+C:\Ivan11a\Konstruktori\Konstruktori\bin\Debug\Konstruktori.pdb
+C:\Ivan11a\Konstruktori\Konstruktori\obj\Debug\Konstruktori.csproj.AssemblyReference.cache
+C:\Ivan11a\Konstruktori\Konstruktori\obj\Debug\Konstruktori.csproj.SuggestedBindingRedirects.cache
+C:\Ivan11a\Konstruktori\Konstruktori\obj\Debug\Konstruktori.csproj.CoreCompileInputs.cache
+C:\Ivan11a\Konstruktori\Konstruktori\obj\Debug\Konstruktori.exe
+C:\Ivan11a\Konstruktori\Konstruktori\obj\Debug\Konstruktori.pdb
