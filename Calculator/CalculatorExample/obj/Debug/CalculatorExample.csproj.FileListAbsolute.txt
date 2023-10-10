@@ -1,0 +1,8 @@
+C:\Ivan 11a\Calculator\CalculatorExample\bin\Debug\CalculatorExample.exe.config
+C:\Ivan 11a\Calculator\CalculatorExample\bin\Debug\CalculatorExample.exe
+C:\Ivan 11a\Calculator\CalculatorExample\bin\Debug\CalculatorExample.pdb
+C:\Ivan 11a\Calculator\CalculatorExample\obj\Debug\CalculatorExample.csproj.AssemblyReference.cache
+C:\Ivan 11a\Calculator\CalculatorExample\obj\Debug\CalculatorExample.csproj.SuggestedBindingRedirects.cache
+C:\Ivan 11a\Calculator\CalculatorExample\obj\Debug\CalculatorExample.csproj.CoreCompileInputs.cache
+C:\Ivan 11a\Calculator\CalculatorExample\obj\Debug\CalculatorExample.exe
+C:\Ivan 11a\Calculator\CalculatorExample\obj\Debug\CalculatorExample.pdb
