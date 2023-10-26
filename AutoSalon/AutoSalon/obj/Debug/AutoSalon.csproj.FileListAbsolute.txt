@@ -1,0 +1,7 @@
+C:\Ivan11a\AutoSalon\AutoSalon\bin\Debug\AutoSalon.exe.config
+C:\Ivan11a\AutoSalon\AutoSalon\bin\Debug\AutoSalon.exe
+C:\Ivan11a\AutoSalon\AutoSalon\bin\Debug\AutoSalon.pdb
+C:\Ivan11a\AutoSalon\AutoSalon\obj\Debug\AutoSalon.csproj.AssemblyReference.cache
+C:\Ivan11a\AutoSalon\AutoSalon\obj\Debug\AutoSalon.csproj.CoreCompileInputs.cache
+C:\Ivan11a\AutoSalon\AutoSalon\obj\Debug\AutoSalon.exe
+C:\Ivan11a\AutoSalon\AutoSalon\obj\Debug\AutoSalon.pdb
