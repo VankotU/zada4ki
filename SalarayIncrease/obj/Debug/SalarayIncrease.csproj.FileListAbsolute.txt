@@ -1,0 +1,7 @@
+C:\Ivan11a\SalarayIncrease\bin\Debug\SalarayIncrease.exe.config
+C:\Ivan11a\SalarayIncrease\bin\Debug\SalarayIncrease.exe
+C:\Ivan11a\SalarayIncrease\bin\Debug\SalarayIncrease.pdb
+C:\Ivan11a\SalarayIncrease\obj\Debug\SalarayIncrease.csproj.AssemblyReference.cache
+C:\Ivan11a\SalarayIncrease\obj\Debug\SalarayIncrease.csproj.CoreCompileInputs.cache
+C:\Ivan11a\SalarayIncrease\obj\Debug\SalarayIncrease.exe
+C:\Ivan11a\SalarayIncrease\obj\Debug\SalarayIncrease.pdb
