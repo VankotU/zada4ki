@@ -1,0 +1,7 @@
+C:\Ivan11a\DogWeight\DogWeight\bin\Debug\DogWeight.exe.config
+C:\Ivan11a\DogWeight\DogWeight\bin\Debug\DogWeight.exe
+C:\Ivan11a\DogWeight\DogWeight\bin\Debug\DogWeight.pdb
+C:\Ivan11a\DogWeight\DogWeight\obj\Debug\DogWeight.csproj.AssemblyReference.cache
+C:\Ivan11a\DogWeight\DogWeight\obj\Debug\DogWeight.csproj.CoreCompileInputs.cache
+C:\Ivan11a\DogWeight\DogWeight\obj\Debug\DogWeight.exe
+C:\Ivan11a\DogWeight\DogWeight\obj\Debug\DogWeight.pdb
