@@ -1,0 +1,7 @@
+C:\Ivan11a\Vehicle\Vehicle\bin\Debug\Vehicle.exe.config
+C:\Ivan11a\Vehicle\Vehicle\bin\Debug\Vehicle.exe
+C:\Ivan11a\Vehicle\Vehicle\bin\Debug\Vehicle.pdb
+C:\Ivan11a\Vehicle\Vehicle\obj\Debug\Vehicle.csproj.AssemblyReference.cache
+C:\Ivan11a\Vehicle\Vehicle\obj\Debug\Vehicle.csproj.CoreCompileInputs.cache
+C:\Ivan11a\Vehicle\Vehicle\obj\Debug\Vehicle.exe
+C:\Ivan11a\Vehicle\Vehicle\obj\Debug\Vehicle.pdb
