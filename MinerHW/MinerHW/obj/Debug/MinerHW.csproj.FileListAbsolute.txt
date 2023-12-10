@@ -1,0 +1,7 @@
+C:\na Vanio domashniti\MinerHW\MinerHW\bin\Debug\MinerHW.exe.config
+C:\na Vanio domashniti\MinerHW\MinerHW\bin\Debug\MinerHW.exe
+C:\na Vanio domashniti\MinerHW\MinerHW\bin\Debug\MinerHW.pdb
+C:\na Vanio domashniti\MinerHW\MinerHW\obj\Debug\MinerHW.csproj.AssemblyReference.cache
+C:\na Vanio domashniti\MinerHW\MinerHW\obj\Debug\MinerHW.csproj.CoreCompileInputs.cache
+C:\na Vanio domashniti\MinerHW\MinerHW\obj\Debug\MinerHW.exe
+C:\na Vanio domashniti\MinerHW\MinerHW\obj\Debug\MinerHW.pdb
