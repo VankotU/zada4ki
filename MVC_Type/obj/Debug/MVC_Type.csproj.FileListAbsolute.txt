@@ -1,0 +1,8 @@
+C:\Ivan 11a\MVC_Type\bin\Debug\MVC_Type.exe.config
+C:\Ivan 11a\MVC_Type\bin\Debug\MVC_Type.exe
+C:\Ivan 11a\MVC_Type\bin\Debug\MVC_Type.pdb
+C:\Ivan 11a\MVC_Type\obj\Debug\MVC_Type.csproj.AssemblyReference.cache
+C:\Ivan 11a\MVC_Type\obj\Debug\MVC_Type.csproj.SuggestedBindingRedirects.cache
+C:\Ivan 11a\MVC_Type\obj\Debug\MVC_Type.csproj.CoreCompileInputs.cache
+C:\Ivan 11a\MVC_Type\obj\Debug\MVC_Type.exe
+C:\Ivan 11a\MVC_Type\obj\Debug\MVC_Type.pdb
