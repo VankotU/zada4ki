@@ -1,0 +1,7 @@
+C:\Ivan11a\DriverLicenseNasledqvane\DriverLicenseNasledqvane\bin\Debug\DriverLicenseNasledqvane.exe.config
+C:\Ivan11a\DriverLicenseNasledqvane\DriverLicenseNasledqvane\bin\Debug\DriverLicenseNasledqvane.exe
+C:\Ivan11a\DriverLicenseNasledqvane\DriverLicenseNasledqvane\bin\Debug\DriverLicenseNasledqvane.pdb
+C:\Ivan11a\DriverLicenseNasledqvane\DriverLicenseNasledqvane\obj\Debug\DriverLicenseNasledqvane.csproj.AssemblyReference.cache
+C:\Ivan11a\DriverLicenseNasledqvane\DriverLicenseNasledqvane\obj\Debug\DriverLicenseNasledqvane.csproj.CoreCompileInputs.cache
+C:\Ivan11a\DriverLicenseNasledqvane\DriverLicenseNasledqvane\obj\Debug\DriverLicenseNasledqvane.exe
+C:\Ivan11a\DriverLicenseNasledqvane\DriverLicenseNasledqvane\obj\Debug\DriverLicenseNasledqvane.pdb
