@@ -1,0 +1,7 @@
+C:\Ivan11a\OrganizationExercise\OrganizationExercise\bin\Debug\OrganizationExercise.exe.config
+C:\Ivan11a\OrganizationExercise\OrganizationExercise\bin\Debug\OrganizationExercise.exe
+C:\Ivan11a\OrganizationExercise\OrganizationExercise\bin\Debug\OrganizationExercise.pdb
+C:\Ivan11a\OrganizationExercise\OrganizationExercise\obj\Debug\OrganizationExercise.csproj.AssemblyReference.cache
+C:\Ivan11a\OrganizationExercise\OrganizationExercise\obj\Debug\OrganizationExercise.csproj.CoreCompileInputs.cache
+C:\Ivan11a\OrganizationExercise\OrganizationExercise\obj\Debug\OrganizationExercise.exe
+C:\Ivan11a\OrganizationExercise\OrganizationExercise\obj\Debug\OrganizationExercise.pdb
