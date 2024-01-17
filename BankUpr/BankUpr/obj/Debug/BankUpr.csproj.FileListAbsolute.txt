@@ -1,0 +1,7 @@
+C:\na Vanio domashniti\BankUpr\BankUpr\bin\Debug\BankUpr.exe.config
+C:\na Vanio domashniti\BankUpr\BankUpr\bin\Debug\BankUpr.exe
+C:\na Vanio domashniti\BankUpr\BankUpr\bin\Debug\BankUpr.pdb
+C:\na Vanio domashniti\BankUpr\BankUpr\obj\Debug\BankUpr.csproj.AssemblyReference.cache
+C:\na Vanio domashniti\BankUpr\BankUpr\obj\Debug\BankUpr.csproj.CoreCompileInputs.cache
+C:\na Vanio domashniti\BankUpr\BankUpr\obj\Debug\BankUpr.exe
+C:\na Vanio domashniti\BankUpr\BankUpr\obj\Debug\BankUpr.pdb
