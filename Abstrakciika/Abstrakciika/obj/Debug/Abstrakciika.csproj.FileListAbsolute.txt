@@ -1,0 +1,7 @@
+C:\Ivan11a\Abstrakciika\Abstrakciika\bin\Debug\Abstrakciika.exe.config
+C:\Ivan11a\Abstrakciika\Abstrakciika\bin\Debug\Abstrakciika.exe
+C:\Ivan11a\Abstrakciika\Abstrakciika\bin\Debug\Abstrakciika.pdb
+C:\Ivan11a\Abstrakciika\Abstrakciika\obj\Debug\Abstrakciika.csproj.AssemblyReference.cache
+C:\Ivan11a\Abstrakciika\Abstrakciika\obj\Debug\Abstrakciika.csproj.CoreCompileInputs.cache
+C:\Ivan11a\Abstrakciika\Abstrakciika\obj\Debug\Abstrakciika.exe
+C:\Ivan11a\Abstrakciika\Abstrakciika\obj\Debug\Abstrakciika.pdb
