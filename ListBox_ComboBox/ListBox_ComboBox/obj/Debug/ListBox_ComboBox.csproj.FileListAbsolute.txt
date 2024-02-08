@@ -1,0 +1,10 @@
+C:\na Vanio domashniti\ListBox_ComboBox\ListBox_ComboBox\bin\Debug\ListBox_ComboBox.exe.config
+C:\na Vanio domashniti\ListBox_ComboBox\ListBox_ComboBox\bin\Debug\ListBox_ComboBox.exe
+C:\na Vanio domashniti\ListBox_ComboBox\ListBox_ComboBox\bin\Debug\ListBox_ComboBox.pdb
+C:\na Vanio domashniti\ListBox_ComboBox\ListBox_ComboBox\obj\Debug\ListBox_ComboBox.csproj.AssemblyReference.cache
+C:\na Vanio domashniti\ListBox_ComboBox\ListBox_ComboBox\obj\Debug\ListBox_ComboBox.Form1.resources
+C:\na Vanio domashniti\ListBox_ComboBox\ListBox_ComboBox\obj\Debug\ListBox_ComboBox.Properties.Resources.resources
+C:\na Vanio domashniti\ListBox_ComboBox\ListBox_ComboBox\obj\Debug\ListBox_ComboBox.csproj.GenerateResource.cache
+C:\na Vanio domashniti\ListBox_ComboBox\ListBox_ComboBox\obj\Debug\ListBox_ComboBox.csproj.CoreCompileInputs.cache
+C:\na Vanio domashniti\ListBox_ComboBox\ListBox_ComboBox\obj\Debug\ListBox_ComboBox.exe
+C:\na Vanio domashniti\ListBox_ComboBox\ListBox_ComboBox\obj\Debug\ListBox_ComboBox.pdb
