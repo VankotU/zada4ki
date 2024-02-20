@@ -1,0 +1,10 @@
+C:\Ivan11A\ExerciseTask\ExerciseTask\bin\Debug\ExerciseTask.exe.config
+C:\Ivan11A\ExerciseTask\ExerciseTask\bin\Debug\ExerciseTask.exe
+C:\Ivan11A\ExerciseTask\ExerciseTask\bin\Debug\ExerciseTask.pdb
+C:\Ivan11A\ExerciseTask\ExerciseTask\obj\Debug\ExerciseTask.csproj.AssemblyReference.cache
+C:\Ivan11A\ExerciseTask\ExerciseTask\obj\Debug\ExerciseTask.Form1.resources
+C:\Ivan11A\ExerciseTask\ExerciseTask\obj\Debug\ExerciseTask.Properties.Resources.resources
+C:\Ivan11A\ExerciseTask\ExerciseTask\obj\Debug\ExerciseTask.csproj.GenerateResource.cache
+C:\Ivan11A\ExerciseTask\ExerciseTask\obj\Debug\ExerciseTask.csproj.CoreCompileInputs.cache
+C:\Ivan11A\ExerciseTask\ExerciseTask\obj\Debug\ExerciseTask.exe
+C:\Ivan11A\ExerciseTask\ExerciseTask\obj\Debug\ExerciseTask.pdb
