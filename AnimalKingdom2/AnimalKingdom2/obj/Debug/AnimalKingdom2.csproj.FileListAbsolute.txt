@@ -1,0 +1,7 @@
+C:\Ivan11a\AnimalKingdom2\AnimalKingdom2\bin\Debug\AnimalKingdom2.exe.config
+C:\Ivan11a\AnimalKingdom2\AnimalKingdom2\bin\Debug\AnimalKingdom2.exe
+C:\Ivan11a\AnimalKingdom2\AnimalKingdom2\bin\Debug\AnimalKingdom2.pdb
+C:\Ivan11a\AnimalKingdom2\AnimalKingdom2\obj\Debug\AnimalKingdom2.csproj.AssemblyReference.cache
+C:\Ivan11a\AnimalKingdom2\AnimalKingdom2\obj\Debug\AnimalKingdom2.csproj.CoreCompileInputs.cache
+C:\Ivan11a\AnimalKingdom2\AnimalKingdom2\obj\Debug\AnimalKingdom2.exe
+C:\Ivan11a\AnimalKingdom2\AnimalKingdom2\obj\Debug\AnimalKingdom2.pdb
