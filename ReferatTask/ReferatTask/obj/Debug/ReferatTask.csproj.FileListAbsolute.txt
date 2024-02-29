@@ -1,0 +1,10 @@
+C:\na Vanio domashniti\ReferatTask\ReferatTask\bin\Debug\ReferatTask.exe.config
+C:\na Vanio domashniti\ReferatTask\ReferatTask\bin\Debug\ReferatTask.exe
+C:\na Vanio domashniti\ReferatTask\ReferatTask\bin\Debug\ReferatTask.pdb
+C:\na Vanio domashniti\ReferatTask\ReferatTask\obj\Debug\ReferatTask.csproj.AssemblyReference.cache
+C:\na Vanio domashniti\ReferatTask\ReferatTask\obj\Debug\ReferatTask.Form1.resources
+C:\na Vanio domashniti\ReferatTask\ReferatTask\obj\Debug\ReferatTask.Properties.Resources.resources
+C:\na Vanio domashniti\ReferatTask\ReferatTask\obj\Debug\ReferatTask.csproj.GenerateResource.cache
+C:\na Vanio domashniti\ReferatTask\ReferatTask\obj\Debug\ReferatTask.csproj.CoreCompileInputs.cache
+C:\na Vanio domashniti\ReferatTask\ReferatTask\obj\Debug\ReferatTask.exe
+C:\na Vanio domashniti\ReferatTask\ReferatTask\obj\Debug\ReferatTask.pdb
