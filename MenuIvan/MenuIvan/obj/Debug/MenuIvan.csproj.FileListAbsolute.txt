@@ -1,0 +1,10 @@
+C:\na Vanio domashniti\MenuIvan\MenuIvan\bin\Debug\MenuIvan.exe.config
+C:\na Vanio domashniti\MenuIvan\MenuIvan\bin\Debug\MenuIvan.exe
+C:\na Vanio domashniti\MenuIvan\MenuIvan\bin\Debug\MenuIvan.pdb
+C:\na Vanio domashniti\MenuIvan\MenuIvan\obj\Debug\MenuIvan.csproj.AssemblyReference.cache
+C:\na Vanio domashniti\MenuIvan\MenuIvan\obj\Debug\MenuIvan.Form1.resources
+C:\na Vanio domashniti\MenuIvan\MenuIvan\obj\Debug\MenuIvan.Properties.Resources.resources
+C:\na Vanio domashniti\MenuIvan\MenuIvan\obj\Debug\MenuIvan.csproj.GenerateResource.cache
+C:\na Vanio domashniti\MenuIvan\MenuIvan\obj\Debug\MenuIvan.csproj.CoreCompileInputs.cache
+C:\na Vanio domashniti\MenuIvan\MenuIvan\obj\Debug\MenuIvan.exe
+C:\na Vanio domashniti\MenuIvan\MenuIvan\obj\Debug\MenuIvan.pdb
