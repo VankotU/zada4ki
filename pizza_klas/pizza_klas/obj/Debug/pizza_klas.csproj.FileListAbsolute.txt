@@ -1,0 +1,10 @@
+C:\ivan11a\pizza_klas\pizza_klas\bin\Debug\pizza_klas.exe.config
+C:\ivan11a\pizza_klas\pizza_klas\bin\Debug\pizza_klas.exe
+C:\ivan11a\pizza_klas\pizza_klas\bin\Debug\pizza_klas.pdb
+C:\ivan11a\pizza_klas\pizza_klas\obj\Debug\pizza_klas.csproj.AssemblyReference.cache
+C:\ivan11a\pizza_klas\pizza_klas\obj\Debug\pizza_klas.Form1.resources
+C:\ivan11a\pizza_klas\pizza_klas\obj\Debug\pizza_klas.Properties.Resources.resources
+C:\ivan11a\pizza_klas\pizza_klas\obj\Debug\pizza_klas.csproj.GenerateResource.cache
+C:\ivan11a\pizza_klas\pizza_klas\obj\Debug\pizza_klas.csproj.CoreCompileInputs.cache
+C:\ivan11a\pizza_klas\pizza_klas\obj\Debug\pizza_klas.exe
+C:\ivan11a\pizza_klas\pizza_klas\obj\Debug\pizza_klas.pdb
