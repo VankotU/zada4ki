@@ -1,0 +1,15 @@
+C:\Ivan11A\ProjectVeganStore\ProjectVeganStore\bin\Debug\ProjectVeganStore.exe.config
+C:\Ivan11A\ProjectVeganStore\ProjectVeganStore\bin\Debug\ProjectVeganStore.exe
+C:\Ivan11A\ProjectVeganStore\ProjectVeganStore\bin\Debug\ProjectVeganStore.pdb
+C:\Ivan11A\ProjectVeganStore\ProjectVeganStore\bin\Debug\EntityFramework.dll
+C:\Ivan11A\ProjectVeganStore\ProjectVeganStore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Ivan11A\ProjectVeganStore\ProjectVeganStore\bin\Debug\EntityFramework.xml
+C:\Ivan11A\ProjectVeganStore\ProjectVeganStore\bin\Debug\EntityFramework.SqlServer.xml
+C:\Ivan11A\ProjectVeganStore\ProjectVeganStore\obj\Debug\ProjectVeganStore.csproj.AssemblyReference.cache
+C:\Ivan11A\ProjectVeganStore\ProjectVeganStore\obj\Debug\ProjectVeganStore.Properties.Resources.resources
+C:\Ivan11A\ProjectVeganStore\ProjectVeganStore\obj\Debug\ProjectVeganStore.csproj.GenerateResource.cache
+C:\Ivan11A\ProjectVeganStore\ProjectVeganStore\obj\Debug\ProjectVeganStore.csproj.CoreCompileInputs.cache
+C:\Ivan11A\ProjectVeganStore\ProjectVeganStore\obj\Debug\ProjectV.D5E9CE97.Up2Date
+C:\Ivan11A\ProjectVeganStore\ProjectVeganStore\obj\Debug\ProjectVeganStore.exe
+C:\Ivan11A\ProjectVeganStore\ProjectVeganStore\obj\Debug\ProjectVeganStore.pdb
+C:\Ivan11A\ProjectVeganStore\ProjectVeganStore\obj\Debug\ProjectVeganStore.Migrations.VeganShopDb.resources
