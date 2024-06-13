@@ -1,0 +1,16 @@
+C:\na Vanio domashniti\ProjectVegans\ProjectVegans\bin\Debug\ProjectVegans.exe.config
+C:\na Vanio domashniti\ProjectVegans\ProjectVegans\bin\Debug\ProjectVegans.exe
+C:\na Vanio domashniti\ProjectVegans\ProjectVegans\bin\Debug\ProjectVegans.pdb
+C:\na Vanio domashniti\ProjectVegans\ProjectVegans\bin\Debug\EntityFramework.dll
+C:\na Vanio domashniti\ProjectVegans\ProjectVegans\bin\Debug\EntityFramework.SqlServer.dll
+C:\na Vanio domashniti\ProjectVegans\ProjectVegans\bin\Debug\EntityFramework.xml
+C:\na Vanio domashniti\ProjectVegans\ProjectVegans\bin\Debug\EntityFramework.SqlServer.xml
+C:\na Vanio domashniti\ProjectVegans\ProjectVegans\obj\Debug\ProjectVegans.csproj.AssemblyReference.cache
+C:\na Vanio domashniti\ProjectVegans\ProjectVegans\obj\Debug\ProjectVegans.Form1.resources
+C:\na Vanio domashniti\ProjectVegans\ProjectVegans\obj\Debug\ProjectVegans.Properties.Resources.resources
+C:\na Vanio domashniti\ProjectVegans\ProjectVegans\obj\Debug\ProjectVegans.csproj.GenerateResource.cache
+C:\na Vanio domashniti\ProjectVegans\ProjectVegans\obj\Debug\ProjectVegans.csproj.CoreCompileInputs.cache
+C:\na Vanio domashniti\ProjectVegans\ProjectVegans\obj\Debug\ProjectVegans.csproj.CopyComplete
+C:\na Vanio domashniti\ProjectVegans\ProjectVegans\obj\Debug\ProjectVegans.exe
+C:\na Vanio domashniti\ProjectVegans\ProjectVegans\obj\Debug\ProjectVegans.pdb
+C:\na Vanio domashniti\ProjectVegans\ProjectVegans\obj\Debug\ProjectVegans.Migrations.VeganStore.resources
